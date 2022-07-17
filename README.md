@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saberkhakbiz73@gmail.com)](mailto:saberkhakbiz73@gmail.com)
 
-<img align="right" width="130" height="180" alt="Akshat Rastogi" src="https://github.com/saber-khakbiz/saber-khakbiz/blob/main/img/gopher.png"/>
+<img align="right" width="115" height="155" alt="Akshat Rastogi" src="https://github.com/saber-khakbiz/saber-khakbiz/blob/main/img/gopher.png"/>
 
 <p>
   <h1 align="left"><b>Hello there, I'm Saber 👋</b></h1>
