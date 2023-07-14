@@ -1,6 +1,11 @@
  [![Never Forget You JPG](https://github.com/saber-khakbiz/saber-khakbiz/blob/main/img/127.1.1.1.jpg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saberkhakbiz73@gmail.com)](mailto:saberkhakbiz73@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saberkhakbiz73@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saber_k14z)
+[![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.torproject.org/)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)]()
 
 <img align="right" width="115" height="155" alt="Akshat Rastogi" src="https://github.com/saber-khakbiz/saber-khakbiz/blob/main/img/gopher.png"/>
 
