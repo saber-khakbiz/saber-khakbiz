@@ -11,7 +11,7 @@
 <img align="right" width="115" height="155" alt="Akshat Rastogi" src="https://github.com/saber-khakbiz/saber-khakbiz/blob/main/img/gopher.png"/>
 
 <p>
-  <h1 align="left"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><b>Hello there, I'm Saber 👋</b></h1>
+  <h1 align="left"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="90" height="90" /><b>Hello there, I'm Saber 👋</b></h1>
 </p>
 
 <br>
