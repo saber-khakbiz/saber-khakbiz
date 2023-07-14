@@ -6,6 +6,8 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)]()
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65"/>
+
 
 <img align="right" width="115" height="155" alt="Akshat Rastogi" src="https://github.com/saber-khakbiz/saber-khakbiz/blob/main/img/gopher.png"/>
 
