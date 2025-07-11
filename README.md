@@ -54,6 +54,3 @@
   
   </div>
   <hr/>
-<br/>
- 
- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
